@@ -1,0 +1,26 @@
+{
+  "name": "compress-image-js",
+  "version": "1.0.0",
+  "description": "A useful and powerful image compressor library for javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad-hakimi/compress-image-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "image",
+    "image-compressor",
+    "compress"
+  ],
+  "author": "Mohammad Hakimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohammad-hakimi/compress-image-js/issues"
+  },
+  "homepage": "https://github.com/mohammad-hakimi/compress-image-js#readme"
+}
