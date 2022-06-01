@@ -1,6 +1,6 @@
 {
   "name": "compress-image-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A useful and powerful image compressor library for javascript.",
   "main": "index.js",
   "scripts": {
